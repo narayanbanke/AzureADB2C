@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp-OpenIDConnect-DotNet", "D:\Narayan\brillio\Work\sample\AzureADOpenid\WebApp-OpenIDConnect-DotNet.csproj", "{232DED4B-B2F5-452D-8E60-7E6BC3B5B749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADB2CExpert", "..\AzureADB2CExpert\AzureADB2CExpert.csproj", "{06572383-BC58-44EA-A122-CFB5785DBA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2C", "..\B2C\B2C.csproj", "{A5034E07-F0F9-4024-B036-977AE241A1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication23", "..\WebApplication23\WebApplication23.csproj", "{CE72ACE4-6A31-4C2F-8B05-C5E5D15ACFE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestService", "..\DemoB2C\TestService\TestService.csproj", "{ECB56BF6-69BB-42AC-B6DA-511204C1BD3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "..\DemoB2C\TestApp\TestApp.csproj", "{6C4E67B6-00CB-4D0E-A525-838EC2A8E9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232DED4B-B2F5-452D-8E60-7E6BC3B5B749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232DED4B-B2F5-452D-8E60-7E6BC3B5B749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232DED4B-B2F5-452D-8E60-7E6BC3B5B749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232DED4B-B2F5-452D-8E60-7E6BC3B5B749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06572383-BC58-44EA-A122-CFB5785DBA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06572383-BC58-44EA-A122-CFB5785DBA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06572383-BC58-44EA-A122-CFB5785DBA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06572383-BC58-44EA-A122-CFB5785DBA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5034E07-F0F9-4024-B036-977AE241A1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5034E07-F0F9-4024-B036-977AE241A1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5034E07-F0F9-4024-B036-977AE241A1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5034E07-F0F9-4024-B036-977AE241A1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE72ACE4-6A31-4C2F-8B05-C5E5D15ACFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE72ACE4-6A31-4C2F-8B05-C5E5D15ACFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE72ACE4-6A31-4C2F-8B05-C5E5D15ACFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE72ACE4-6A31-4C2F-8B05-C5E5D15ACFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB56BF6-69BB-42AC-B6DA-511204C1BD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB56BF6-69BB-42AC-B6DA-511204C1BD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB56BF6-69BB-42AC-B6DA-511204C1BD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB56BF6-69BB-42AC-B6DA-511204C1BD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4E67B6-00CB-4D0E-A525-838EC2A8E9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4E67B6-00CB-4D0E-A525-838EC2A8E9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4E67B6-00CB-4D0E-A525-838EC2A8E9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4E67B6-00CB-4D0E-A525-838EC2A8E9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B58A55A1-93AA-451D-85D5-5740A2D09B70}
+	EndGlobalSection
+EndGlobal
